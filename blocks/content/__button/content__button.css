@@ -1,0 +1,15 @@
+.content__button {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  z-index: 10;
+  font-family: 'Mont';
+  font-weight: bold;
+  font-style: normal;
+}
+/* @media screen and (min-width: 320px) and (max-width: 450px) {
+  .content__button {
+    max-width: 320px;
+    justify-content: space-between;
+  }
+} */
